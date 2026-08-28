@@ -42,6 +42,17 @@ The PCB itself is a minatuarized 2-Layer FR4 PCB with only a few components, mos
 6. Flash the PCB using any pogo pin assembly while applying 5V voltage through the USB-C port
 7. Youre ready to hack!
 
+# BOM
+
+| id | Name                          | Qty | Price |   |
+|----|-------------------------------|-----|-------|---|
+| 1  | PCB                           | 1   | 11.5$ |   |
+| 2  | ATSAMD11D14A-UUT              | 10  | 16$   |   |
+| 3  | TLV73333PDQNR                 | 10  | 5$    |   |
+| 4  | WWE Shipping and Handling     | 4   | 39$   |   |
+| x  | All other parts are in stock. | x   | x     |   |
+| x  | TOTAL                         |     | 71.5$ |   |
+
 # Information for reviewers
 28.08.2026: The parts are avalible via a custom agreement between me and Worldway electronics. This project required 22 hours in total to finish. Thanks for reviewing.
 
