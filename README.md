@@ -13,7 +13,7 @@ The smallest "Rubber Ducky" in the world.
 </div>
 
 # What is ZeptoDuck about?
-In the world of rising digital vurneablility due to the effects of digitalization we are forced to develop tools to pentest the security structures we have developed and established over the years. One poular tool attackers use is the "Rubber Ducky". It is a broad term for a programmable HID execution device. The ZeptoDuck project, with the term "Zepto" coming from the greek word ζεπτο meaning one sextilionth. This, literally, small term was used to display the size of the ZeptoDuck only about 10x3x15mm. This is the world record for the smallest rubber ducky ever produced. 
+In the world of rising digital vurneablility due to the effects of digitalization we are forced to develop tools to pentest the security structures we have developed and established over the years. One poular tool attackers use is the "Rubber Ducky". It is a broad term for a programmable HID execution device. The ZeptoDuck project, with the term "Zepto" coming from the greek word ζεπτο meaning one sextilionth is a electronics project to build such a device. The term "Zepto" was used to display the size of the ZeptoDuck being only about 10x3x15mm. This would be the world record for the smallest rubber ducky ever produced. 
 
 # Features
 ZeptoDuck covers a narrow spectre of features dur to its very specific usecase.
